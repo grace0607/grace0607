@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning text analysis in python and programming in java
+
 :apple: I'm looking for a mentor in ML/NLP to help me navigate this exciting space
 <!--
 **grace0607/grace0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
