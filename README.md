@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning text analysis in python and programming in java:
+🌱 I’m currently learning text analysis in python and programming in java
 
 :apple: I'm looking for a mentor in CS to help me navigate this exciting space
 <!--
