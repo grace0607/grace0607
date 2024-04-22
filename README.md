@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-This is Grace, a student at Columbia interested in Data Science and its applications for social impact and policy.
+This is Grace, a student at Columbia interested in programming and its applications for social impact and policy.
 
-🌱 I’m currently learning Data Structures & Algorithms, Database Design & Management, Digital Product Management (Lab), Web App Development at Columbia University
-
-📖 Past courses I took are Text Analysis in Python, Infographics and Data Visualization, Intro to Computer Science/Programming in Java, Python for Public Policy
+📖 Past courses I took are Full Stack Web Dev, Building AI Tools, Data Structures & Algorithms, Text Analysis in Python, Infographics and Data Visualization, Intro to Computer Science/Programming in Java, and Python for Public Policy among others.
 
 👯 I’m looking to collaborate on any fun projects that are useful, creative, and kind!
 
